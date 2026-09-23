@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/delaigle/iberia/language-masters/en:/",
+    "/content/delaigle/iberia/language-masters/en/:/en/",
+    "/content/delaigle/iberia/configuration:/.helix/config.json",
+    "/content/delaigle/iberia/metadata:/metadata.json",
+    "/content/delaigle/iberia/redirects:/redirects.json",
+    "/content/delaigle/iberia/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/delaigle/iberia/",
+    "/content/dam/delaigle/iberia/"
   ]
 }
